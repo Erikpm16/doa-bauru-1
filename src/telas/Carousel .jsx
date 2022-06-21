@@ -6,7 +6,7 @@ import { useState } from 'react';
 
 function Carouseltela() {
 
-  const [images, setImages] = useState([banner1, banner2, banner3]);
+  const [images] = useState([banner1, banner2, banner3]);
 
   return (
     <Carousel fade className='banner' >

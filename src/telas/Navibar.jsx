@@ -12,6 +12,7 @@ function Navibar() {
           <Nav.Link href="#home">Quem somos</Nav.Link>
           <Nav.Link href="#">Mapa</Nav.Link>
           <Nav.Link href="#">Contato</Nav.Link>
+          <Nav.Link href="/login">Login</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Container>
